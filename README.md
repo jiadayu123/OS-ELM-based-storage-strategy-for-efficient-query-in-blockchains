@@ -16,7 +16,12 @@ In the classifier module, the features of blocks are used as the input of the la
 
 <img src="https://github.com/jiadayu123/OS-ELM-based-storage-strategy-for-efficient-query-in-blockchains/blob/master/figs/f2.jpg" width="400px">
 
-
 ## Hot block update algorithm
 
 <img src="https://github.com/jiadayu123/OS-ELM-based-storage-strategy-for-efficient-query-in-blockchains/blob/master/figs/f3.jpg" width="400px">
+
+## Demo
+
+You can execute the above sample code with the following command.
+
+$ python train.py
