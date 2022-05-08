@@ -4,7 +4,7 @@
 
 The architecture of the hot block storage strategy consists of three modules, as shown in this figure, namely the sharding-based blockchain module (the left part); the feature extraction module (the upper right part) and the classifier module (the upper right part).
 
-<img src="https://github.com/jiadayu123/OS-ELM-based-storage-strategy-for-efficient-query-in-blockchains/blob/master/figs/f2.png" width="400px">
+<img src="https://github.com/jiadayu123/OS-ELM-based-storage-strategy-for-efficient-query-in-blockchains/blob/master/figs/f1.png" width="400px">
 
 In the sharding-based blockchain module, the blockchain system adopts different sharding strategies to realize that resource-constrained nodes join the consensus of the blockchain system. This paper takes ElasticChain as an example to describe the working process of the module in detail. 
 
